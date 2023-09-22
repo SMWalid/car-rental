@@ -1,4 +1,4 @@
-import logo from './logoeees.svg';
+import logo from './logoeeedes.svg';
 import './App.css';
 
 function App() {
